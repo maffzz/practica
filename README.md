@@ -1,1 +1,1 @@
-"agrega los cursos de este ciclo:"
+agrega los cursos por cada ciclo:
